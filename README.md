@@ -1,2 +1,2 @@
 # spring-mvc-interceptor
-How to use interceptor for logging ,transaction and auditing in spring mvc
+This application i used how to logging the Request and Response using Interceptor and spring AOP
